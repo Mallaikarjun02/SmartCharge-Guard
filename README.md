@@ -39,6 +39,7 @@ SmartCharge Guard aims to:
 | `01-Market-Research/Week-1-Summary.md` | Week 1 research, competitor analysis, SWOT, PESTEL, Porter |
 | `02-Product-Strategy/Product-Strategy.md` | Vision, goals, positioning, roadmap |
 | `03-PRD/PRD.md` | Product requirements, userg stories, acceptance criteria |
+| `03-Product-Roadmap/Product-Roadmap.md` | Feature prioritization, RICE framework & 12-month timeline |
 | `04-User-Research/Interview-Plan.md` | Interview plan, survey, findings template |
 | `05-UX-Wireframes/Figma-Screen-Spec.md` | Screen specifications for Figma |
 | `06-Technical-Architecture/System-Architecture.md` | System/data flow and boundaries |
