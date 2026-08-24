@@ -36,15 +36,15 @@ SmartCharge Guard aims to:
 ## Repository map
 | Folder | Contents |
 |---|---|
-| `01-Market-Research` | Week 1 research, competitor analysis, SWOT, PESTEL, Porter |
-| `02-Product-Strategy` | Vision, goals, positioning, roadmap |
-| `03-PRD` | Product requirements, user stories, acceptance criteria |
-| `04-User-Research` | Interview plan, survey, findings template |
-| `05-UX-Wireframes` | Screen specifications for Figma |
-| `06-Technical-Architecture` | System/data flow and boundaries |
-| `07-Analytics` | KPI tree, event taxonomy, experiment plan |
-| `08-OTA-Rollout` | Release strategy, monitoring, rollback |
-| `09-Portfolio` | Resume bullets and interview talking points |
+| `01-Market-Research/Week-1-Summary.md` | Week 1 research, competitor analysis, SWOT, PESTEL, Porter |
+| `02-Product-Strategy/Product-Strategy.md` | Vision, goals, positioning, roadmap |
+| `03-PRD/PRD.md` | Product requirements, userg stories, acceptance criteria |
+| `04-User-Research/Interview-Plan.md` | Interview plan, survey, findings template |
+| `05-UX-Wireframes/Figma-Screen-Spec.md` | Screen specifications for Figma |
+| `06-Technical-Architecture/System-Architecture.md` | System/data flow and boundaries |
+| `07-Analytics/KPI-Framework.md` | KPI tree, event taxonomy, experiment plan |
+| `08-OTA-Rollout/OTA-Rollout-Strategy.md` | Release strategy, monitoring, rollback |
+| `09-Portfolio/Resume-Bullets.md` | Resume bullets and interview talking points |
 
 ## Competitive benchmarks
 The project benchmarks public capabilities from Ather, Ola Electric and Hyundai, including connected EV software, BMS/thermal management, OTA and battery-conditioning/charging optimization.
